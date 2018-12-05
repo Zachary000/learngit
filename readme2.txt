@@ -1,2 +1,2 @@
 readme test
-git is very good
+git is very good under the GPL.
